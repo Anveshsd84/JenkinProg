@@ -75,10 +75,10 @@
 				<configuration>
 				   <suiteXmlFiles>
 				   <suiteXmlFile>testng.xml</suiteXmlFile>
-				   
 				   </suiteXmlFiles>
+					 <testFailureIgnore>true</testFailureIgnore>
 				</configuration>
 			</plugin>
-		</plugins>
+	  </plugins>
 	</build>
 </project>
