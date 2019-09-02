@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [jenkinPacakgeTest.JenkinTest]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="jenkinPacakgeTest.JenkinTest">
+        <methods>
+          <include name="TravelDetails"/>
+        </methods>
+      </class> <!-- jenkinPacakgeTest.JenkinTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [jenkinPacakgeTest.JenkinTest] -->

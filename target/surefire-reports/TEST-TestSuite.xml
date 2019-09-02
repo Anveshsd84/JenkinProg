@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="76.938" tests="1" errors="0" skipped="0" failures="1">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files (x86)\Java\jre1.8.0_191\bin"/>
+    <property name="java.vm.version" value="25.191-b12"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="D:\FleetainWorkSpace\JenkinPro"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) Client VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="D:\FleetainWorkSpace\JenkinPro"/>
+    <property name="java.runtime.version" value="1.8.0_191-b12"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files (x86)\Java\jre1.8.0_191\lib\endorsed"/>
+    <property name="os.arch" value="x86"/>
+    <property name="java.io.tmpdir" value="C:\Users\anvesh\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 8.1"/>
+    <property name="classworlds.conf" value="D:\FleetainWorkSpace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf896427129119715061.tmp"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files (x86)\Java\jre1.8.0_191\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files (x86)/Java/jre1.8.0_191/bin/client;C:/Program Files (x86)/Java/jre1.8.0_191/bin;C:/Program Files (x86)/Java/jre1.8.0_191/lib/i386;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Java\jdk1.8.0_151\bin;C:\Program Files (x86)\Java\jre1.8.0_151\bin;C:\Program Files\Git\cmd;D:\Selenium Data\Selenium Software1\ChromeDriver\chromedriver;C:\Program Files\PuTTY\;C:\Program Files (x86)\Java\jdk1.8.0_151\bin;C:\Program Files (x86)\Java\jre1.8.0_151\bin;C:\maven\apache-maven-3.5.4\bin;G:\JBK Eclipse Configured 32-bit\JBK Eclipse Configured\eclipse;;."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot Client Compiler"/>
+    <property name="os.version" value="6.3"/>
+    <property name="user.home" value="C:\Users\anvesh"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="anvesh"/>
+    <property name="java.class.path" value="/G:/JBK Eclipse Configured 32-bit/JBK Eclipse Configured/eclipse/plugins/org.eclipse.m2e.maven.runtime_1.6.0.20150526-2031/jars/plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="32"/>
+    <property name="java.home" value="C:\Program Files (x86)\Java\jre1.8.0_191"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B install"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.version" value="1.8.0_191"/>
+    <property name="java.ext.dirs" value="C:\Program Files (x86)\Java\jre1.8.0_191\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files (x86)\Java\jre1.8.0_191\lib\resources.jar;C:\Program Files (x86)\Java\jre1.8.0_191\lib\rt.jar;C:\Program Files (x86)\Java\jre1.8.0_191\lib\sunrsasign.jar;C:\Program Files (x86)\Java\jre1.8.0_191\lib\jsse.jar;C:\Program Files (x86)\Java\jre1.8.0_191\lib\jce.jar;C:\Program Files (x86)\Java\jre1.8.0_191\lib\charsets.jar;C:\Program Files (x86)\Java\jre1.8.0_191\lib\jfr.jar;C:\Program Files (x86)\Java\jre1.8.0_191\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="D:\FleetainWorkSpace\JenkinPro\EMBEDDED"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value=""/>
+  </properties>
+  <testcase name="TravelDetails" classname="jenkinPacakgeTest.JenkinTest" time="73.431">
+    <failure message="no such window: target window already closed&#10;from unknown error: web view not found&#10;  (Session info: chrome=76.0.3809.132)&#10;  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)&#10;Command duration or timeout: 97 milliseconds&#10;Build info: version: &apos;3.0.1&apos;, revision: &apos;1969d75&apos;, time: &apos;2016-10-18 09:49:13 -0700&apos;&#10;System info: host: &apos;PAVILION&apos;, ip: &apos;192.168.0.100&apos;, os.name: &apos;Windows 8.1&apos;, os.arch: &apos;x86&apos;, os.version: &apos;6.3&apos;, java.version: &apos;1.8.0_191&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=WIN8_1, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:54896}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5), userDataDir=C:\Users\anvesh\AppData\Local\Temp\scoped_dir1940_22099}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=76.0.3809.132, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]&#10;Session ID: 57983a64e0c9863f0591673496fdb579" type="org.openqa.selenium.NoSuchWindowException">org.openqa.selenium.NoSuchWindowException: 
+no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=76.0.3809.132)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 97 milliseconds
+Build info: version: '3.0.1', revision: '1969d75', time: '2016-10-18 09:49:13 -0700'
+System info: host: 'PAVILION', ip: '192.168.0.100', os.name: 'Windows 8.1', os.arch: 'x86', os.version: '6.3', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=WIN8_1, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:54896}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5), userDataDir=C:\Users\anvesh\AppData\Local\Temp\scoped_dir1940_22099}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=76.0.3809.132, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 57983a64e0c9863f0591673496fdb579
+	at jenkinPacakgeTest.JenkinTest.TravelDetails(JenkinTest.java:150)
+</failure>
+    <system-out><![CDATA[2
+Sept 2019
+2
+Sept 2019
+Kolhapur(Maharas...=>Aurangabad (All ...=>Mohan travels (ghatge patil transport ltd.)=>INR 762=>02 Sep
+Kolhapur(Maharas...=>Aurangabad (All ...=>MB Link Travels=>INR 600=>02 Sep
+Kolhapur(Maharas...=>Aurangabad (All ...=>Nakoda Travels=>INR 600=>02 Sep
+Kolhapur(Maharas...=>Aurangabad (All ...=>Humsafar Travels=>INR 700=>02 Sep
+Kolhapur(Maharas...=>Aurangabad (All ...=>Konduskar Travels Pvt. Ltd.=>INR 857=>02 Sep
+Kolhapur(Maharas...=>Aurangabad (All ...=>Labbaik Tours and Travels ( HUNDEKARI )=>INR 550=>02 Sep
+Kolhapur(Maharas...=>Aurangabad (All ...=>Vaibhav Travels=>570=>02 Sep
+Kolhapur(Maharas...=>Aurangabad (All ...=>Mohan travels (ghatge patil transport ltd.)=>INR 762=>03 Sep
+Kolhapur(Maharas...=>Aurangabad (All ...=>MB Link Travels=>INR 600=>03 Sep
+Kolhapur(Maharas...=>Aurangabad (All ...=>Nakoda Travels=>INR 600=>03 Sep
+Kolhapur(Maharas...=>Aurangabad (All ...=>Humsafar Travels=>INR 700=>03 Sep
+Kolhapur(Maharas...=>Aurangabad (All ...=>Konduskar Travels Pvt. Ltd.=>null=>03 Sep
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5) on port 6020
+Only local connections are allowed.
+Sep 02, 2019 3:27:42 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Attempting bi-dialect session, assuming Postel's Law holds true on the remote end
+log4j:WARN No appenders could be found for logger (org.apache.http.client.protocol.RequestAddCookies).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+Sep 02, 2019 3:27:45 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+  </testcase>
+</testsuite>
