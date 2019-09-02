@@ -11,6 +11,7 @@ import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.testng.annotations.Test;
 
@@ -99,7 +100,7 @@ public class JenkinTest {
 				    options.addArguments("--disable-notifications");
 				    System.setProperty("webdriver.chrome.driver",".//JenkinPro//chromedriver");
 					driver=new ChromeDriver(options);*/
-				        driver = new FirefoxDriver();
+				        driver=new FirefoxDriver();
 	//				driver.manage().window().maximize();
 					driver.manage().timeouts().implicitlyWait(50, TimeUnit.SECONDS);
 					driver.manage().deleteAllCookies();
