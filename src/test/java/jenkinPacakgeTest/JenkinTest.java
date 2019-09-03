@@ -96,11 +96,10 @@ public class JenkinTest {
 			for(int k=0;k < ArrayLength;k++)
 			{
 			        	
-				    /*ChromeOptions options = new ChromeOptions();
+				    ChromeOptions options = new ChromeOptions();
 				    options.addArguments("--disable-notifications");
 				    System.setProperty("webdriver.chrome.driver",".//JenkinPro//chromedriver");
-					driver=new ChromeDriver(options);*/
-				        driver=new FirefoxDriver();
+					driver=new ChromeDriver
 	//				driver.manage().window().maximize();
 					driver.manage().timeouts().implicitlyWait(50, TimeUnit.SECONDS);
 					driver.manage().deleteAllCookies();
