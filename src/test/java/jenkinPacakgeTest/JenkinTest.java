@@ -98,7 +98,7 @@ public class JenkinTest {
 			        	
 				    ChromeOptions options = new ChromeOptions();
 				    options.addArguments("--disable-notifications");
-				    System.setProperty("webdriver.chrome.driver",".//JenkinPro//chromedriver");
+				    System.setProperty("webdriver.chrome.driver",""user.dir"+"//JenkinPro//chromedriver.exe"");
 					driver=new ChromeDriver
 	//				driver.manage().window().maximize();
 					driver.manage().timeouts().implicitlyWait(50, TimeUnit.SECONDS);
