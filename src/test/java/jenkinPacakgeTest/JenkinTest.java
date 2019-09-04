@@ -35,9 +35,7 @@ public class JenkinTest {
 					
 				{"Kolhapur(Maharashtra) (All Locations)","Aurangabad (All Locations)"},				
 				
-				{"Aurangabad (All Locations)","Kolhapur(Maharashtra) (All Locations)"},
-			//{"Mumbai (All Locations)","Kolhapur(Maharashtra) (All Locations)"},
-			//	{"Pune (All Locations)","Sangli"},
+				{"Aurangabad (All Locations)","Kolhapur(Maharashtra) (All Locations)"}	
 				
          };
 		
