@@ -22,7 +22,7 @@ public class JenkinTest {
 	    Calendar now = Calendar.getInstance();
 //	    JavascriptExecutor js = (JavascriptExecutor)driver;
 //	    String date = now.get(Calendar.DATE)+"-"+get_Month()+" 2019"; 
-	    String date="2-Sept 2019";
+	    String date="5-Sept 2019";
 		String splitter[] = date.split("-");
 		String month_year = splitter[1];
 		String day = splitter[0];	
